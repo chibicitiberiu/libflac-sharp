@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flac", "Flac\Flac.csproj", "{ECB7B567-6A67-43F4-89CA-64E5D9F07B97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flac.Test", "Flac.Test\Flac.Test.csproj", "{1576AB6D-F8F4-42FC-BDC7-67D08648AEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB7B567-6A67-43F4-89CA-64E5D9F07B97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB7B567-6A67-43F4-89CA-64E5D9F07B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB7B567-6A67-43F4-89CA-64E5D9F07B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB7B567-6A67-43F4-89CA-64E5D9F07B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1576AB6D-F8F4-42FC-BDC7-67D08648AEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1576AB6D-F8F4-42FC-BDC7-67D08648AEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1576AB6D-F8F4-42FC-BDC7-67D08648AEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1576AB6D-F8F4-42FC-BDC7-67D08648AEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
